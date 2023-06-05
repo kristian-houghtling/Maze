@@ -8,6 +8,7 @@ let preAlpha = 25;
 let alpha;
 
 
+
 function setup() {
   createCanvas(windowWidth, windowHeight);
   cols = floor(width / w);

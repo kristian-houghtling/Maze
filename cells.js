@@ -7,6 +7,7 @@ class Cells {
         this.a = a; //array to keep track of the cells
     }
 
+
     show() {
         let x = this.i * w;
         let y = this.j * w;
